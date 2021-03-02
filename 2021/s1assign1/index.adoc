@@ -30,7 +30,7 @@ Make sure that you consult the <<_marking_guidelines, marking guidelines>> at th
 
 == Task Requirements
 
-A brand new social network has just been launched called *Snapgram*: http://snapgram.cgscomputing.com[https://snapgram.cgscomputing.com^]. Rumor has it that this social network will be bigger than Facebook, Instagram, Snapchat, and Tik Tok combined...and the founders have big ambitions, as do the investors who have put over $100 billion of venture capital to make this platform a reality.
+A brand new social network has just been launched called *Snapgram*: http://snapgram.cgscomputing.com[https://snapgram.cgscomputing.com^]. Rumor has it that this social network will be bigger than Facebook, Instagram, Snapchat, and Tik Tok combined... and the founders have big ambitions, as do the investors who have put over $100 billion of venture capital to make this platform a reality.
 
 As you are aware, security and user privacy in social networks is a founder's top priority (despite the fact that the administrators of Snapgram seem to browse the profiles of their users on a regular basis...sometimes as frequently as every 5 minutes!?!). Nevertheless, you have been engaged to do a penetration test on the system and write a report to ensure no-one else can do the same kind of thing!
 
